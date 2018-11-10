@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/glfw_scratch.dir/src/main.cpp.o  -o glfw_scratch -framework OpenGL -framework OpenGL /usr/local/lib/libGLEW.dylib 

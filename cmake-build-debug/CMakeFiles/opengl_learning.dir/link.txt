@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/opengl_learning.dir/src/main.cpp.o  -o opengl_learning -framework OpenGL -framework OpenGL /usr/local/lib/libGLEW.dylib -lglfw /usr/local/lib/libGLEW.dylib -lglfw 
